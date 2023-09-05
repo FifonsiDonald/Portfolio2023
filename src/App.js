@@ -36,7 +36,7 @@ function App() {
           </div>
           <section id="About">
             .{/* About me */}
-            <div  className="container">
+            <div className="container">
               <div>
                 <img className="image2" src={mySecondImage} alt="img" />
               </div>
