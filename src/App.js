@@ -43,18 +43,11 @@ function App() {
               <div className="aboutme-text">
                 <h1> About Me </h1>
                 <p>
-                  Hello, I’m, a results-oriented software Engineer specialised
-                  in developing efficient and enterprise level mobile apps and
-                  backend services. I care profoundly about building interfaces
-                  that are usable and pleasant for the most number of people
-                  possible. My professional life has been 100% driven by my
-                  passion for design and structure. Worked on 12+ user-friendly
-                  and fully functional applications for Android and IOS. I have
-                  experience with different stacks; from Dart to JavaScript to
-                  Typescript and I possess a complimentary Community leadership
-                  background as co-lead of Facebook Developer Circle Accra and
-                  co-organizer for Flutter Africa. Very receptive to adopting
-                  new and inspiring UI/UX designs and implementing them.
+                Hello, I am a results-oriented Software Engineer with a specialization in crafting efficient and enterprise-level web applications and robust backend services.
+                My passion lies in creating web interfaces that are not only functional but also user-friendly and visually appealing to a wide audience.
+                My tech stack versatility spans from JavaScript to TypeScript, enabling me to adapt and thrive in dynamic development environments. 
+                I am also deeply involved in community .With a keen eye for detail and a penchant for innovation, I'm dedicated to pushing the boundaries of web development, creating solutions that not only meet but exceed expectations.
+                Let's collaborate and transform your digital ideas into exceptional web experiences.
                 </p>
               </div>
             </div>
